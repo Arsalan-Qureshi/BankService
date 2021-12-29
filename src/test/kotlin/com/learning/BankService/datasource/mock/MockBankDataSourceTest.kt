@@ -1,4 +1,4 @@
-package com.learning.LearningKotlin.datasource.mock
+package com.learning.BankService.datasource.mock
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

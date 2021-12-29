@@ -1,7 +1,7 @@
-package com.learning.LearningKotlin.service
+package com.learning.BankService.service
 
-import com.learning.LearningKotlin.datasource.BankDataSource
-import com.learning.LearningKotlin.model.Bank
+import com.learning.BankService.datasource.BankDataSource
+import com.learning.BankService.model.Bank
 import org.springframework.stereotype.Service
 
 @Service

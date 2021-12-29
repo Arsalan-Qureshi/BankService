@@ -1,6 +1,6 @@
-package com.learning.LearningKotlin.service
+package com.learning.BankService.service
 
-import com.learning.LearningKotlin.datasource.BankDataSource
+import com.learning.BankService.datasource.BankDataSource
 import io.mockk.every
 import io.mockk.mockk
 import io.mockk.verify

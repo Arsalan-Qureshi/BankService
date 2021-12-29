@@ -1,6 +1,6 @@
-package com.learning.LearningKotlin.datasource
+package com.learning.BankService.datasource
 
-import com.learning.LearningKotlin.model.Bank
+import com.learning.BankService.model.Bank
 
 interface BankDataSource {
     fun getBanks(): Collection<Bank>

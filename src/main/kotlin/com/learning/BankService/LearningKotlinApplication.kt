@@ -1,10 +1,7 @@
-package com.learning.LearningKotlin
+package com.learning.BankService
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
-import org.springframework.context.annotation.Bean
-import software.amazon.awssdk.regions.Region
-import software.amazon.awssdk.services.ec2.Ec2Client
 
 @SpringBootApplication
 class LearningKotlinApplication

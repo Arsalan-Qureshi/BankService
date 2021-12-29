@@ -1,7 +1,7 @@
-package com.learning.LearningKotlin.controller
+package com.learning.BankService.controller
 
-import com.learning.LearningKotlin.model.Bank
-import com.learning.LearningKotlin.service.BankService
+import com.learning.BankService.model.Bank
+import com.learning.BankService.service.BankService
 import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable

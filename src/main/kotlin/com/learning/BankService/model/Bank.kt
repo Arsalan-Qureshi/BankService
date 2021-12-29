@@ -1,4 +1,4 @@
-package com.learning.LearningKotlin.model
+package com.learning.BankService.model
 
 data class Bank(
     val accountNumber: String,
